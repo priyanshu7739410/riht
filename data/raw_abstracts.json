@@ -1,0 +1,19 @@
+[
+  {
+    "id": "PMID:349281",
+    "ArticleTitle": "Efficacy of Drug X in severe cardiac failure.",
+    "abstract_text": "We tested 500 patients. The drug worked in 40% of cases but caused nausea.",
+    "authorList": ["Smith, J", "Doe, A"]
+  },
+  {
+    "id": 8829102,
+    "title": null,
+    "Abstract": "Null hypothesis rejected. No significant improvement noted in cohort B vs placebo.",
+    "authors": "Unknown"
+  },
+  {
+    "id": "ERR_NOT_FOUND",
+    "ArticleTitle": "Corrupted Entry",
+    "abstract_text": null
+  }
+]
